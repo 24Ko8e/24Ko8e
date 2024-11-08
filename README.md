@@ -26,7 +26,7 @@ Experienced Software Engineer specializing in XR solutions, Unity Engine, and Un
 [![](https://visitcount.itsvg.in/api?id=24Ko8e&icon=3&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Abhishek184) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Abhishek184) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
